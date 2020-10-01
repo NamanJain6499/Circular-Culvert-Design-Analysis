@@ -10,4 +10,4 @@ The program covers the following features:
  
  The program is based on the formulae provided at http://www.lmnoeng.com/Pipes/hds.htm
 
- It aims to simplify Civil Engineering.
+ It's goal is  to simplify Civil Engineering.
